@@ -1,0 +1,6 @@
+if THREE-BY-THREE
+
+config ZMK_KEYBOARD_NAME
+  default "three-by-three"
+
+endif

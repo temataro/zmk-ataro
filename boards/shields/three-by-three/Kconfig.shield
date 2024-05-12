@@ -1,0 +1,2 @@
+config THREE-X-THREE
+  def_bool $(shields_list_contains, three-x-three)
